@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wf0dtZzi0r20iVKhrVdwwmGSL4P29nfscASbIRwaFquByCmkERHfBRGiAvMFonAWFiM4kl5NWDV/ShzSbQeFBQ==",
+  "success": true,
+  "projectFilePath": "D:\\작업물\\YouAreAnIdiot\\YouAreAnIdiot\\YouAreAnIdiot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekfri\\.nuget\\packages\\microsoft.web.webview2\\1.0.1418.22\\microsoft.web.webview2.1.0.1418.22.nupkg.sha512"
+  ],
+  "logs": []
+}
