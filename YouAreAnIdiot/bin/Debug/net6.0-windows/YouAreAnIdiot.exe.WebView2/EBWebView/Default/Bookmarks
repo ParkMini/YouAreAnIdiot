@@ -1,0 +1,49 @@
+{
+   "checksum": "4e01e8b29bd5239552b947174ce0ac43",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13313648162446038",
+            "date_last_used": "0",
+            "guid": "c418994e-acbb-4604-875f-f377ba39ae2a",
+            "id": "5",
+            "name": "LG PC 사용자를 위한 맥아피 보안 혜택",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=250704"
+         } ],
+         "date_added": "13313648162429700",
+         "date_last_used": "0",
+         "date_modified": "13313648162446038",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "즐겨찾기 모음",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13313648162429701",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "다른 즐겨찾기",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13313648162429702",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "모바일 즐겨찾기",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
